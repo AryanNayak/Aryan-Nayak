@@ -110,7 +110,7 @@
 
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Multi-Instrumentalist.", "I Make Music/Educational Videos.", "I am a Blogger.", "I Build Websites." , "I am a Competetive Programmer."],    /* You can change the home section typing text from
+            strings: ["I am a Competitive Programmer.", "I build cool Websites." , "I make Algorithmic Videos.", "I am a Musician.", "I am a Multi-instrumentalist." ,"I am a Blogger."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
